@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Pemasangan Panel Surya 5 Kilowatt di Taman Kota Surabaya untuk Penerangan Hemat Energi",
+    "location": "Surabaya",
+    "id": 1,
+    "description": "Proyek ini bertujuan untuk memasang panel surya dengan daya 5 kilowatt di Taman Kota Surabaya guna memberikan penerangan yang hemat energi dan ramah lingkungan.",
+    "power": "5000",
+    "picture1": "https://images.pexels.com/photos/3626248/pexels-photo-3626248.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "picture2": "https://images.pexels.com/photos/9800031/pexels-photo-9800031.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "picture3": "https://images.pexels.com/photos/9799756/pexels-photo-9799756.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "latitude": "112.722292",
+    "longitude": "-7.266417",
+    "User": {
+      "username": "Ani",
+      "id": 1,
+      "profile_picture": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    "Records": [
+      {
+        "id": 1,
+        "createdAt": "2023-07-09T00:01:00.000Z",
+        "voltage": 42.92174005166564,
+        "current": 75.10882973545127,
+        "intensity": 716.9792939786726,
+        "humidity": 67.12549641466366,
+        "temperature": 23.225379186698213
+      },
+      {
+        "id": 2,
+        "createdAt": "2023-07-09T00:02:00.000Z",
+        "voltage": 43.02384385172418,
+        "current": 74.14622774700896,
+        "intensity": 670.3978279417223,
+        "humidity": 67.47301366604002,
+        "temperature": 23.289199603071808
+      }
+    ]
+  }
+]

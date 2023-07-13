@@ -1,0 +1,123 @@
+{
+  "User": [
+    {
+      "id": 0,
+      "name": "Ani Purnama Sari",
+      "profile_picture": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 1,
+      "name": "Aza Shelina",
+      "profile_picture": "https://images.pexels.com/photos/3763188/pexels-photo-3763188.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "name": "Bayu Setiawan",
+      "profile_picture": "https://xsgames.co/randomusers/assets/avatars/male/22.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Carley Zabor",
+      "profile_picture": "https://xsgames.co/randomusers/assets/avatars/female/44.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Jordon Freemyer",
+      "profile_picture": "https://xsgames.co/randomusers/assets/avatars/male/66.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Marcelo Blackledge",
+      "profile_picture": "https://xsgames.co/randomusers/assets/avatars/male/68.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Anabel Landford",
+      "profile_picture": "https://xsgames.co/randomusers/assets/avatars/female/74.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Andrew Zimmet",
+      "profile_picture": "https://xsgames.co/randomusers/assets/avatars/female/3.jpg"
+    }
+  ],
+  "Project": [
+    {
+      "id": 0,
+      "name": "",
+      "description": "",
+      "UserId": 0,
+      "Data": {
+        "Intensity": [
+          {
+            "date": "",
+            "data": [
+              { "value": 210, "time": "" },
+              { "value": 250, "time": "" },
+              { "value": 210, "time": "" }
+            ]
+          },
+          {
+            "date": "",
+            "data": [
+              { "value": 100, "time": "" },
+              { "value": 150, "time": "" }
+            ]
+          }
+        ],
+        "Energy": [
+          {
+            "date": "",
+            "data": [
+              { "value": 210, "time": "" },
+              { "value": 250, "time": "" },
+              { "value": 210, "time": "" }
+            ]
+          },
+          {
+            "date": "",
+            "data": [
+              { "value": 100, "time": "" },
+              { "value": 150, "time": "" }
+            ]
+          }
+        ],
+        "Power": [
+          {
+            "date": "",
+            "data": [
+              { "value": 210, "time": "" },
+              { "value": 250, "time": "" },
+              { "value": 210, "time": "" }
+            ]
+          },
+          {
+            "date": "",
+            "data": [
+              { "value": 100, "time": "" },
+              { "value": 150, "time": "" }
+            ]
+          }
+        ],
+        "Temperature": [
+          {
+            "date": "",
+            "data": [
+              { "value": 210, "time": "" },
+              { "value": 250, "time": "" },
+              { "value": 210, "time": "" }
+            ]
+          },
+          {
+            "date": "",
+            "data": [
+              { "value": 100, "time": "" },
+              { "value": 150, "time": "" }
+            ]
+          }
+        ]
+      }
+    }
+
+  ]
+}
